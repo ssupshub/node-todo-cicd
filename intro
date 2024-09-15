@@ -1,0 +1,27 @@
+
+---
+
+**Project Overview: CI/CD for Node.js To-Do List Application**
+
+This project involves implementing a Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Node.js-based To-Do List application. The application facilitates the management of daily tasks, allowing users to create, update, and track their tasks efficiently.
+
+**Architecture and Technologies:**
+
+1. **Kubernetes**: Used for orchestrating containerized applications, ensuring scalability, high availability, and seamless deployment of the To-Do List application.
+
+2. **Docker**: Employed to containerize the Node.js application, providing a consistent and portable environment for development, testing, and production stages.
+
+3. **NPM**: Utilized for managing project dependencies and scripts, ensuring smooth build and deployment processes.
+
+4. **AWS EC2**: Hosts the application and its infrastructure, providing a reliable and scalable cloud environment for running the containerized application and CI/CD pipeline.
+
+**Key Features:**
+
+- **Task Management**: Users can add, update, and manage their daily tasks effectively.
+- **Automated Deployment**: The CI/CD pipeline automates the process of building, testing, and deploying the application.
+- **Scalability**: Kubernetes ensures that the application can handle increasing loads and scale as needed.
+- **Consistency**: Docker containers provide a uniform environment across development, testing, and production stages.
+- **Efficient Dependency Management**: NPM facilitates the management of project dependencies and scripts, ensuring smooth operations.
+
+
+---
